@@ -21,7 +21,11 @@ This is a basic example for starting with basic programming with NodeJs.
 **VS Code Extensions**
 * Eslint
 
-## Terminal ##
+## Terminal REPL ##
+
+```
+REPL = Read Eval Print Loop
+```
 
 To start running our code with NodeJs we need the use of the Terminal in VS Code.
 
@@ -34,4 +38,5 @@ To start running our code with NodeJs we need the use of the Terminal in VS Code
 
 <img width="1910" height="545" alt="image" src="https://github.com/user-attachments/assets/68ab64e6-c25a-4e08-bba0-850446d83fe9" />
 
-5. 
+
+
