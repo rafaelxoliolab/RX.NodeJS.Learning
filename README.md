@@ -56,5 +56,6 @@ function helloWorld()
 4. Save your changes
 5. Go to Terminal and run command "node hello.js"
 
+<img width="868" height="511" alt="image" src="https://github.com/user-attachments/assets/afb7f151-2740-47ac-8b08-c35d2ea6a266" />
 
 
