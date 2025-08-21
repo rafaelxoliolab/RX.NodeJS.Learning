@@ -27,4 +27,11 @@ To start running our code with NodeJs we need the use of the Terminal in VS Code
 
 1. Open VS Code
 2. Go to menu _Terminal_ and Select option _New Terminal_
-   <img width="576" height="311" alt="image" src="https://github.com/user-attachments/assets/02be4e43-9d4a-4f1d-a561-e62fecf717cb" />
+   
+<img width="576" height="311" alt="image" src="https://github.com/user-attachments/assets/02be4e43-9d4a-4f1d-a561-e62fecf717cb" />
+
+3. Run the command "node"
+
+<img width="1910" height="545" alt="image" src="https://github.com/user-attachments/assets/68ab64e6-c25a-4e08-bba0-850446d83fe9" />
+
+5. 
