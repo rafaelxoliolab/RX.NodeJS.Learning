@@ -44,7 +44,7 @@ To start running our code with NodeJs we need the use of the Terminal in VS Code
 2. Create a new file named "hello.js"
 3. Add the function "helloWorld"
    
-   ```JS
+```JS
 function helloWorld()
 {
     let value1 = "hello"
@@ -52,8 +52,9 @@ function helloWorld()
 
     console.log(valor1 + valor2)
 }
-   ```
+```
 4. Save your changes
 5. Go to Terminal and run command "node hello.js"
+
 
 
