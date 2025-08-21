@@ -18,3 +18,13 @@ This is a basic example for starting with basic programming with NodeJs.
 **Visual Studio Code**
 * Download Visual Studio Code from [code.visualstudio.com](https://code.visualstudio.com/download)
 
+**VS Code Extensions**
+* Eslint
+
+## Terminal ##
+
+To start running our code with NodeJs we need the use of the Terminal in VS Code.
+
+1. Open VS Code
+2. Go to menu _Terminal_ and Select option _New Terminal_
+   <img width="576" height="311" alt="image" src="https://github.com/user-attachments/assets/02be4e43-9d4a-4f1d-a561-e62fecf717cb" />
