@@ -1,4 +1,4 @@
-## Starting programing with NodeJS
+## Starting programming with NodeJS
 
 This is a basic example for starting with basic programming with NodeJs.
 
@@ -38,5 +38,22 @@ To start running our code with NodeJs we need the use of the Terminal in VS Code
 
 <img width="1910" height="545" alt="image" src="https://github.com/user-attachments/assets/68ab64e6-c25a-4e08-bba0-850446d83fe9" />
 
+
+## My first file ##
+1. Create a new folder in VS Code named "Examples"
+2. Create a new file named "hello.js"
+3. Add the function "helloWorld"
+   
+   ```JS
+function helloWorld()
+{
+    let value1 = "hello"
+    let value2 = " world"
+
+    console.log(valor1 + valor2)
+}
+   ```
+4. Save your changes
+5. Go to Terminal and run command "node hello.js"
 
 
