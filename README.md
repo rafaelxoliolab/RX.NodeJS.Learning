@@ -13,13 +13,21 @@ This is a basic example for starting with basic programming with NodeJs.
   * Run setup
   * Verify installation with command `node -v`
 
-
 ### Installing tools for coding
 **Visual Studio Code**
 * Download Visual Studio Code from [code.visualstudio.com](https://code.visualstudio.com/download)
 
 **VS Code Extensions**
 * Eslint
+
+### Installing nodemon
+* Install nodemon from [npmjs.com](https://www.npmjs.com/package/nodemon)
+  * Open a terminal in Visual Studio Code
+  * Run command "npm install -g nodemon"
+
+ <img width="614" height="207" alt="image" src="https://github.com/user-attachments/assets/cad04b14-fdf3-4d35-bed2-a80bde752cad" />
+
+
 
 ## Terminal REPL ##
 
