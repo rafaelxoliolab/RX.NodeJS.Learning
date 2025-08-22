@@ -1,6 +1,6 @@
 ## Starting programming with NodeJS
 
-This is a basic example for starting with basic programming with NodeJs.
+This is a project for starting programming with NodeJs.
 
 ## Pre-requisites
 * Javascript
