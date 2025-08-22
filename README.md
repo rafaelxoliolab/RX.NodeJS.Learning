@@ -66,4 +66,9 @@ function helloWorld()
 
 <img width="868" height="511" alt="image" src="https://github.com/user-attachments/assets/afb7f151-2740-47ac-8b08-c35d2ea6a266" />
 
+## Using nodemon ##
+Use nodemon to run your code, and automatically restart when make changes.
+
+<img width="843" height="677" alt="image" src="https://github.com/user-attachments/assets/6f00b185-f02a-4801-884d-5f48a757c6e8" />
+
 
